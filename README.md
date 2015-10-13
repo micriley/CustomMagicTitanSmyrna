@@ -210,3 +210,106 @@ CL03 Land, B:
 CL04 Land, R:
 CL05 Land, G:
 CL06 Land:
+
+U N C O M M O N
+Total of 80 cards at uncommon for a large set
+13 cards of each color
+10 multicolored
+5 artifacts
+Adjust these numbers as nessesary for Multicolored sets etc.
+
+//White Uncommons
+UW01 Creature small: 
+UW02 Creature small: 
+UW03 Creature small:
+UW04 Creature small:
+UW05 Creature medium:
+UW06 Creature medium: 
+UW07 Creature medium:
+UW08 Enchantment Aura:
+UW09 Enchantment Aura:
+UW10 Enchantment:
+UW11 Instant: 
+UW12 Instant: 
+UW13 Sorcery:
+
+//Blue Uncommons
+UU01 Creature small:
+UU02 Creature small: 
+UU03 Creature small:
+UU04 Creature small:
+UU05 Creature medium:
+UU06 Creature medium: 
+UU07 Creature medium:
+UU08 Creature medium:
+UU09 Enchantment Aura:
+UU10 Enchantment:
+UU10 Instant:
+UU11 Instant:
+UU12 Instant:
+UU13 Sorcery:
+
+//Black Uncommons
+UB01 Creature small:
+UB02 Creature small: 
+UB03 Creature small:
+UB04 Creature small:
+UB05 Creature medium:
+UB06 Creature medium: 
+UB07 Creature medium:
+UB08 Creature medium:
+UB09 Enchantment Aura:
+UB10 Enchantment Aura:
+UB11 Enchantment:
+UB12 Instant:
+UB13 Sorcery:
+
+//Red Uncommons
+UR01 Creature small:
+UR02 Creature small: 
+UR03 Creature small:
+UR04 Creature small:
+UR05 Creature small:
+UR06 Creature medium:
+UR07 Enchantment:
+UR08 Enchantment Aura:
+UR09 Instant:
+UR10 Instant:
+UR11 Instant:
+UR12 Sorcery:
+UR13 Sorcery:
+
+//Green Uncommons
+UG01 Creature small:
+UG02 Creature small: 
+UG03 Creature small:
+UG04 Creature small:
+UG05 Creature medium:
+UG06 Creature medium:
+UG07 Creature large:
+UG08 Instant:
+UG09 Instant:
+UG10 Sorcery:
+UG11 Sorcery:
+UG12 Sorcery:
+UG13 Sorcery:
+
+//Gold Uncommons
+XWU
+XWB
+XWR
+XWG
+XUB
+XUR
+XUG
+XBR
+XBG
+XRG
+
+//Artifact Uncommons
+
+UA01:
+UA02:
+UA03:
+UA04:
+UA05:
