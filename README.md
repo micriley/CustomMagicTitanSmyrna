@@ -212,6 +212,7 @@ CL05 Land, G:
 CL06 Land:
 
 U N C O M M O N
+
 Total of 80 cards at uncommon for a large set
 13 cards of each color
 10 multicolored
@@ -295,16 +296,16 @@ UG12 Sorcery:
 UG13 Sorcery:
 
 //Gold Uncommons
-XWU
-XWB
-XWR
-XWG
-XUB
-XUR
-XUG
-XBR
-XBG
-XRG
+XWU:
+XWB:
+XWR:
+XWG:
+XUB:
+XUR:
+XUG:
+XBR:
+XBG:
+XRG:
 
 //Artifact Uncommons
 
