@@ -4,7 +4,6 @@ Name
 CMC
 Type
 Abilities
-P/T
 @Flavor Text@
 Comment:
 ==================================
