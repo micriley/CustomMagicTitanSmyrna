@@ -1,0 +1,9 @@
+==================================
+***Format  Designations***
+Name
+CMC
+Type
+Abilities
+@Flavor Text@
+Comment:
+==================================
