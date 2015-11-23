@@ -1,0 +1,245 @@
+Titan Games Meeting 10/26/15 (1st meeting)
+
+Mechanics first:
+  Splice onto X.
+  Pros:
+    Requires more instants and sorceries
+    Splice onto certain creature types. Over-reliance on spells.
+    Can be tribal based.
+    
+  Solution: Forecast rework. The forecast trigger can be onto a cardtype. Can
+  
+  Infernal Spawn Of Evil-esque.
+
+C O M B O  
+
+Card:
+Rapid Growth G
+Instant
+Target creature get +1/+1
+Combo 1G Green Creature. When you cast a green creature, you may pay the Combo cost. Target creature gains a +1/+1 counter
+
+Combo Elf G
+Creature - Elf
+Combo: 1G Creature. Give a creature +1/+1
+1/2
+
+Can do this on creatures. Have creatures that allready work as spells. Is good early game. Is good late game. It's a bad topdeck which is fair.
+
+Combo Anthem 2WW
+Creatures get +1/+1
+Combo 1WW White Creatures: Creature gain haste and all creatures gain +1/+1 until the end of the turn.
+
+Combo Berserker Rage 3RR
+Creatures get double strike
+Combo 1R Red Creatures: Creature gain haste and all creature first strike
+
+Rule Number 1: The combo needs to be smaller. This means that the cost is competitive
+Rule Number 2: The two things needs to be flavorfully related
+
+Burn Them Down 1RR
+Combo RRR: Creature gains haste and +2/+0. Sacrifice it at the end of the turn.
+
+Shock Combo R
+Deal 2 damage to player or creature
+Combo 2RR: Combo Creature gains +3/+0 and haste. Shock Combo does 2 damage to target creature
+
+Needs a slower limited format.
+
+Illusion Mechanic:
+
+Pros:
+  Strong Drawback, can push cards.
+  Phantasmal Image is too pushed because it's too cheap.
+
+Expensive Illusions
+Illusions that do things. A lot of utility.
+
+Glass Illusions 4UU
+
+3UU T: Target creature gains illusions
+Illusion Flying 3/4
+
+Illusion Looter U
+Illusion Looter 1/1
+
+Evasive Looter Guy 2U
+Illusion Looter Flying 1/1
+
+Color Sizes:
+White/Blue-Black-Red-Green
+
+Color Pair Styles:
+Green Blue gets the shaft
+White Red gets too much space in army
+
+Blue-Green:
+
+Blue:
+  Draw Card
+  Manipulate the library
+  Ramps for artifacts. Engineers.
+  Hindering Aura
+  Hindering Enchantment
+  Mill
+  Frosting and Tapping
+  All the evasion
+  On hit mechanic
+  Blue can switch.
+Green:
+  Can Manipulate the library looking for tutoring. Stack the deck for lands.
+  Ramp.
+  Buffing Auras
+  Can Untap.
+  Can gain the evasion
+  Enter the battlefield
+
+Fortune/Future Telling. Shamanistic in design.
+
+Illusionary Elf GU
+Creature Elf
+T: Tap for G, U, or (2) for a spell type.
+2/1
+
+Blue spells filter from your opponent.
+
+Uncommon White
+Your opponent chooses 1:
+Draw 3 cards.
+Draw upto the same amount of cards as target opponent.
+
+Evasive guy 2GU
+
+1U Gain Flying
+1G gain menace
+4/4
+
+Fateseal Small GU
+1/1 Flying fateseal on hit.
+
+Fateseal Medium 2GG
+Menace
+2U Fateseal on hit
+3/3
+
+Fateseal Large 4UG
+Enter The Battlefield Reorder the opponent's library.
+On Attack: Clash, winner find a basic land, comes in tapped.
+3/4
+
+Reorder works really well with clash.
+
+White is the army.
+Target removal is bad against white.
+
+Attack from the library 3GU
+sorcery
+scry 3
+reveal the top card of your library. If it's a creature. you may choose target creature. Target creature gets +x/+x where X is the revealed creature's power
+
+Betrayer Demon 2BB
+At the end of the turn, you lose 1 life and Betrayer warlord gains +1/+1 counter.
+When Betrayer Warlord is targeted by spell or ability your opponent controls, that opponent may redistrbute the counters on Betrayer Warlord.
+Flying 6/6
+
+It's probably a rare cycle. REALLY AGGRESIVE
+
+Betrayer is too complicated for common.
+
+Pair Mechanic
+
+2 types of creatures
+When they're together they're better
+When you target 1 guy, the player may choose to redirect.
+
+This is the old Kor (Tempest) repurposed. They redistributed damage across the cards.
+
+1W
+This creature may shoulder the burden of the damage.
+2/2
+
+2 2/2 1 3/3.
+
+We're trying to fix clerics.
+
+Awakener Common 2W
+Defensive Buddy
+When Awakener enters the battlefield. Untap all Offensive buddies.
+2/2
+
+Red
+Last Hit
+
+Snorlax 2RR
+When Snorlax does damage to player. Chandra ability.
+Last Hit
+6/4
+
+Lazy Hit Masticore 5R
+Last Hit
+Masticore can block 2 creatures
+Firebreathing for double red.
+2/6
+
+Red:
+  Crazy Enchantment
+  Burn Spells
+  Fast little creatures
+  Big dragons at rare
+  Hellions
+  Sacrificecs
+  unblockable for little things
+  stop blocks.
+
+Chandras library 2R
+Enchantment
+During my upkeep chandra. Give all my oppponent's creatures firststrike.
+C O O L   C Y C L E
+Black: Lose 2 life, get a creature card back.
+Green: Gain GGG for the 1st main phase. Give them the coursier of kruphix ability
+White: Taxes them and gives them life.
+Blue: Fortune 3 for you, Fortune 2 for your opponent.
+Fortune: Look at top X cards, reorganize them in any order.
+
+Mono colored incentive double cost/triple cost.
+
+Ninjas:
+  Deal with combat battlefield. Ninjas were blue and black, but they might be in green or red.
+  Last Strike Ninja. Very flavorful.
+  3BB Last Strike Ninjitsu 2BB When Last Strike Ninja deals damage to a player, target creature gets -1/-1 4/4
+
+Wasteland set
+Descendent cycle
+
+Return To Kamigawa. Revisit the mechanics. Kamigawa super far in the future. Edo period with warring city states. That's very factional however. Maybe GU snakes. Can make prowess for samurais. RW samurais. Black Japanesse Demons. UR Stormcasting, pirates raiders, korean raider.
+
+Raider Ship 4
+Artifact Creature
+When Raider Ship attacks and is not blocked, you maybe put 5 1/1 red raider tokens
+0/5
+
+Merchants. Mercadian Masques: Cards that had activated abilities when you sacrificing a card.
+
+Pillaging Pirate 1R
+Everytime pillaging pirate attacks, it gains an adventuring count. Remove 3 adventuring counters and destroy a land you may do this at socery speed. 2/2
+
+Pillaging Pirate 1R
+Everytime pillaging pirate attacks, it gains an adventuring count. Remove 3 adventuring counters and destroy a land you may do this at socery speed. 2/2
+
+Scout Pirate 1U
+Whenever a pirate attacks, fortune 2.
+1/2
+
+There's not a lot of building in magic, have more building into some extra resources.
+
+WB artifacts. White and black building defenses. Very royalty. Win over attrition. Maybe fortifications.
+
+Fortification, gotta be in every color.
+
+Black-Green: Ghosts, otherworldly, kami. Anti-fortification. Corruption. Bad for them. Good for you. Good for both. Bad for both.
+
+Fortification kills 2GB
+Sorcery
+Destroy target land and target fortification attached to target land.
+
+***Corrupt: On hit, corrupt. If they're all corrupt, do something. *** Corrupt Delve. *** Corrupt Elf.

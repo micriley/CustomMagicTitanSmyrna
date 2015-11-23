@@ -1,0 +1,88 @@
+White Mechanic
+Roar/Green Mechanic
+Contraption/Artifacts - Quatarion Mechanic
+
+White and Equipment is a good pairing. Very flavorful.
+White can get renown. The challenge is to get renown.
+White gets transform when they get 3 +1/+1 counters.
+
+"Adventures" "Quest Counters"
+
+Scared Adventurer 1W
+Common
+Creature - Human Adventure
+Questing Flip if 3 quests: If this creature is blocked, you may remove it for combat
+1/1
+Courageous Adventure
+Creature - Human Adventure
+First Strike
+3/3
+
+ WW
+Uncommon
+Questing
+DoubleStrike
+2/2
+TRANSFORM
+On combat damage, exile a target creature. When ~ dies, return that creature from play
+3/1
+
+Adventurous Rigger 1W
+Creature - Human Rigger
+Questing
+When ETB return rigger to hand
+2/2
+TRANSFORM
+Creature - Human Artificer
+When he transforms, assemble a contraption
+4/4
+
+Adenturing Giant 3W
+Creature - Giant
+Questing
+3/3
+TRANSFORM
+Creature - Giant
+Double Block
+4/6
+
+common Wall Builder 2W
+Creature - 
+Questing
+2/2
+TRANSFORM
+1WW: Sacrifice a land, put a 0/4 wall into play
+2/2
+
+White has a firefly story
+
+Mythic Hero of Small Community 1WWW
+Creature - Legendary Hero
+Questing
+Vigilance
+TRANSFORM
+Creature - Legendary Avatar
+When you transform, gain 1 life per creature you own
+Power and toughness equal to your life
+*/*
+4/4
+
+Baller Fighter 4GG
+Common
+Roar - Fight a guy.
+5/5
+
+Rampant Bear 2G Rare
+Roar: You may play an extra land this turn
+1/1
+
+Bully Elf GG
+Uncommon
+Roar: You may fight a creature.
+If you didn't roar at the end of your upkeep, Sacrifice bully elf
+3/3
+
+Living wellstone 1G
+Common
+Roar: gain life equal to Living wellstone's power
+0/1

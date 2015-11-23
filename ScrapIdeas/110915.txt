@@ -1,0 +1,145 @@
+Vigilant Squire 1W common
+Creature - Squire
+While vigiliant squire is untapped. All Knights have vigilance while vigilant squire is untapped
+1/3
+Mike: 3/5
+Shane: 2/5
+Alex: Might be able to push. Might be too hard. What if squires become knights. And then squires can support knights.
+
+Brush Away 4U common
+Instant
+Return target creature to it's opponent's hand
+Dominate - If you have more cards in hand than your opponent, return target creature to the top of it's owner's deck
+
+Mike: 5/5
+Shane: 5/5
+Alex: 5/5 Dominate is keyed to hand size, maybe remove it.
+Going to the card file!
+
+Launcher Rigger 2 common
+Artifact - Equipment Rigger
+Equipped creature gains haste
+Assembly 3R. Assemble this rigger for it's assembly cost. Equipped Creature gains flying
+Equip 1
+
+Shane: Anything that is equipment contrapation is too much for common.
+
+Ooze machine 4 common
+Artiface - Rigger
+Sacrifice Ooze machine: gain 3 1/1 ooze token creatures
+Assembly 2G - On your upkeep put a 1/1 ooze token
+
+Mike: 4/5 very flavorful
+Shane: make it 2 ooze tokens
+Alex: Agreed
+File ready on the change
+
+Watch The Locals 2UU uncommon
+Enchantment
+Dominate - If you have more cards in hand than your opponent, Creatrues you don't control get -2/-0
+
+Mike: I think it's too strong 4/5
+Shane: Don't think it's too good 5/5
+Alex: Too overwhelming. Maybe an additional effect: Maybe sac a card to turn it off. Or set 2UU.
+
+Bully Ogre 2RR common
+Creature - Ogre
+Sunder
+5/3
+
+Cool it's in.
+
+Tricky Knight 4W uncommon
+Creature - Knight
+If tricky knight is tapped, Squires you control have {T}: Untap target squire
+4/4
+
+Alex: Good opportunity for interesting card. 
+Shane: Tap a squire you control: Tap a squire to untap a squire.
+Mike: Too complicated! 1/5
+
+Protectorate Squire 2W common
+Creature - Squire
+When protectorate squire is untapped All knights gain +0/+1 when attacking
+1/3
+
+Tunneling Zombie B common
+Creature - Zombie
+Submerge 1 ETB
+1/1
+
+going in the file
+
+Slithering husk 4B common
+Creature - Zombie
+Submerge 2
+2/4
+
+Wicked Necromancer 2B uncommon
+Creature - Human
+When Wicked Necromancer attacks, reveal the bottom card of your library. Creatures with CMC greater than the revealed card are menace this turn
+2/2
+
+put it in!
+
+Watery Resurrection 4B common
+Sorcery
+exile the bottom of your library. If it is a creature card, you may return it to the battlefield
+
+Shane: Awesome
+
+
+Jerryrigging goblin R common
+Creature - Goblin
+{T} Assemble a Rigger. If it does not have a red assembly cost, sacrifice it at the end of the turn
+1/1
+
+Shane: something for the 2nd set.
+
+Static Shock 1R common
+Instant
+Deal 3 damage to target creature. If target creature is equipped, choose another target. That creature takes 2 damage
+
+Shane: Consider disabiling ability.
+
+Overrig 2R common
+Sorcery
+Assembly a rigger and equip it to target creature
+
+Alex: Assemble a contraption. Deal damage equal to it's assemble cost.
+
+Riggering vidalken 3U common
+Creature - vialken
+{T} Assemble a Rigger. If it has a blue assembly cost, you may draw a card.
+1/2
+
+Alex: Way too strong
+Shane: Works to well with 
+
+Metabolic Ooze 2GG common
+When Metabolic Ooze dies, put 2 1/1 ooze token creatures on the battlefield
+2/2
+
+Shane: Allready there.
+
+Strike Down 2BB common
+Instant
+Put taget creature on the bottom of it's owner's library
+
+Alex: This is a white ability. Consider sorcery speed.
+Shane: This is redonkulous
+
+Steal from the grave 3RB uncommon
+Look at the opponent's bottom card of the library. If it's a creature, gain control of that creature until the end of the turn. It gains haste and is exiled.
+
+Shane: No mill. I'd love to push it up.
+Alex: No mill
+
+Hunter's bow 3 uncommon 2
+Artifact - equipment rigger
+equipped creature gains {T}: deal 1 damage to target non-flying creature
+Assemble 1G - equipped creature also gains {T}: deal 2 damage to target flying creature
+Equip 2
+
+Shane: I like what it's doing. Next set maybe.
+Alex: Equipped creature has reach maybe.
