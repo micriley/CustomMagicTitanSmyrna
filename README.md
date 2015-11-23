@@ -83,12 +83,12 @@ Large: 5/5+
 
 //All common cards of a color should fall within this range
 Aproximate Converted Mana distribution of each color
-1 : 3-4 : 
-2 : 5-6 : 
-3 : 4-5 : 
-4 : 3-4 : 
-5 : 1-2 : 
-6+: 1-2 : 
+1 : 3-4 :
+2 : 5-6 :
+3 : 4-5 :
+4 : 3-4 :
+5 : 1-2 :
+6+: 1-2 :
 
 Total of 101 cards at common for a large set
 18 cards of each color
